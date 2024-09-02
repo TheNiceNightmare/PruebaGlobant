@@ -1,0 +1,7 @@
+com\cryptoexchange\User.class
+com\cryptoexchange\CryptoMarket.class
+com\cryptoexchange\CryptoExchangeGUI.class
+com\cryptoexchange\Transaction.class
+com\cryptoexchange\TransactionService.class
+com\cryptoexchange\UserService.class
+com\cryptoexchange\CryptoExchange.class
